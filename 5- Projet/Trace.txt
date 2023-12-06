@@ -1,0 +1,10 @@
+1 Sticap 1 Tomate 1 Conserve 5/12/2023
+10 Ellouze 4 Cafes 2 Boisson 5/12/2023
+15 Samsung 7 Machine_a_Laver 4 Electromenager 5/6/2019
+10 Ellouze 4 Cafes 2 Boisson 5/6/2019
+1 Sticap 1 Tomate 1 Conserve 5/1/2024
+15 Samsung 7 Machine_a_Laver 4 Electromenager 6/12/2024
+10 Ellouze 4 Cafes 2 Boisson 6/12/2024
+1 Sticap 1 Tomate 1 Conserve 6/12/2024
+15 Samsung 7 Machine_a_Laver 4 Electromenager 6/12/2023
+19 oil 3 Jus -2 Ìÿa 6/12/2023
